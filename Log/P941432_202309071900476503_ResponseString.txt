@@ -1,0 +1,3 @@
+07-09-2023 19:00:50
+Bank_Account_No_Validation Response:{"profileId":"PC000031597","statusCode":"RJCT","statusDesc":"Invalid request payload JSON format.","responseBase64":null}
+-------------------------------------------------------

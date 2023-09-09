@@ -1,0 +1,386 @@
+07-09-2023 12:21:41
+Msg:HSBC NEFT ReqString:<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CstmrCdtTrfInitn>
+<GrpHdr>
+<MsgId>940867</MsgId>
+<CreDtTm>202309071221416671</CreDtTm>
+<NbOfTxs>1</NbOfTxs>
+<CtrlSum>2.00</CtrlSum>
+<InitgPty>
+<Id>
+<OrgId>
+<Othr>
+<Id>PC000031597</Id>
+</Othr>
+</OrgId>
+</Id>
+</InitgPty>
+</GrpHdr>
+<PmtInf>
+<PmtInfId>940867</PmtInfId>
+<PmtMtd>TRF</PmtMtd>
+<PmtTpInf>
+<SvcLvl>
+<Cd>URNS</Cd>
+</SvcLvl>
+</PmtTpInf>
+<ReqdExctnDt>2023-09-07</ReqdExctnDt>
+<Dbtr>
+<Nm>SPANDANA SPHOORTY FINANCIAL LIMITED</Nm>
+<PstlAdr>
+<StrtNm>GALAXY WING B 16TH FLOOR PLOT NO.1</StrtNm>
+<PstCd>500081</PstCd>
+<TwnNm>HYDERABAD</TwnNm>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</Dbtr>
+<DbtrAcct>
+<Id>
+<Othr>
+<Id>082151994001</Id>
+</Othr>
+</Id>
+<Ccy>INR</Ccy>
+</DbtrAcct>
+<DbtrAgt>
+<FinInstnId>
+<BIC>HSBCINBB</BIC>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</FinInstnId>
+</DbtrAgt>
+<CdtTrfTxInf>
+<PmtId>
+<InstrId>940867</InstrId>
+<EndToEndId>940867</EndToEndId>
+</PmtId>
+<Amt>
+<InstdAmt Ccy="INR">2.00</InstdAmt>
+</Amt>
+<ChrgBr>DEBT</ChrgBr>
+<CdtrAgt>
+<FinInstnId>
+<ClrSysMmbId>
+<MmbId>YESB0000097</MmbId>
+</ClrSysMmbId>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</FinInstnId>
+</CdtrAgt>
+<Cdtr>
+<Nm>Vajrala Naresh Kumar</Nm>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</Cdtr>
+<CdtrAcct>
+<Id>
+<Othr>
+<Id>009791800015849</Id>
+</Othr>
+</Id>
+</CdtrAcct>
+<RmtInf>
+<Ustrd>Testing Narration</Ustrd>
+</RmtInf>
+</CdtTrfTxInf>
+</PmtInf>
+</CstmrCdtTrfInitn>
+</Document>
+-------------------------------------------------------
+07-09-2023 12:32:58
+Msg:HSBC NEFT ReqString:<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CstmrCdtTrfInitn>
+<GrpHdr>
+<MsgId>940867</MsgId>
+<CreDtTm>202309071232583671</CreDtTm>
+<NbOfTxs>1</NbOfTxs>
+<CtrlSum>2.00</CtrlSum>
+<InitgPty>
+<Id>
+<OrgId>
+<Othr>
+<Id>PC000031597</Id>
+</Othr>
+</OrgId>
+</Id>
+</InitgPty>
+</GrpHdr>
+<PmtInf>
+<PmtInfId>940867</PmtInfId>
+<PmtMtd>TRF</PmtMtd>
+<PmtTpInf>
+<SvcLvl>
+<Cd>URNS</Cd>
+</SvcLvl>
+</PmtTpInf>
+<ReqdExctnDt>2023-09-07</ReqdExctnDt>
+<Dbtr>
+<Nm>SPANDANA SPHOORTY FINANCIAL LIMITED</Nm>
+<PstlAdr>
+<StrtNm>GALAXY WING B 16TH FLOOR PLOT NO.1</StrtNm>
+<PstCd>500081</PstCd>
+<TwnNm>HYDERABAD</TwnNm>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</Dbtr>
+<DbtrAcct>
+<Id>
+<Othr>
+<Id>082151994001</Id>
+</Othr>
+</Id>
+<Ccy>INR</Ccy>
+</DbtrAcct>
+<DbtrAgt>
+<FinInstnId>
+<BIC>HSBCINBB</BIC>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</FinInstnId>
+</DbtrAgt>
+<CdtTrfTxInf>
+<PmtId>
+<InstrId>940867</InstrId>
+<EndToEndId>940867</EndToEndId>
+</PmtId>
+<Amt>
+<InstdAmt Ccy="INR">2.00</InstdAmt>
+</Amt>
+<ChrgBr>DEBT</ChrgBr>
+<CdtrAgt>
+<FinInstnId>
+<ClrSysMmbId>
+<MmbId>YESB0000097</MmbId>
+</ClrSysMmbId>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</FinInstnId>
+</CdtrAgt>
+<Cdtr>
+<Nm>Vajrala Naresh Kumar</Nm>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</Cdtr>
+<CdtrAcct>
+<Id>
+<Othr>
+<Id>009791800015849</Id>
+</Othr>
+</Id>
+</CdtrAcct>
+<RmtInf>
+<Ustrd>Testing Narration</Ustrd>
+</RmtInf>
+</CdtTrfTxInf>
+</PmtInf>
+</CstmrCdtTrfInitn>
+</Document>
+-------------------------------------------------------
+07-09-2023 12:42:14
+Msg:HSBC NEFT ReqString:<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CstmrCdtTrfInitn>
+<GrpHdr>
+<MsgId>940867</MsgId>
+<CreDtTm>202309071242141191</CreDtTm>
+<NbOfTxs>1</NbOfTxs>
+<CtrlSum>2.00</CtrlSum>
+<InitgPty>
+<Id>
+<OrgId>
+<Othr>
+<Id>PC000031597</Id>
+</Othr>
+</OrgId>
+</Id>
+</InitgPty>
+</GrpHdr>
+<PmtInf>
+<PmtInfId>940867</PmtInfId>
+<PmtMtd>TRF</PmtMtd>
+<PmtTpInf>
+<SvcLvl>
+<Cd>URNS</Cd>
+</SvcLvl>
+</PmtTpInf>
+<ReqdExctnDt>2023-09-07</ReqdExctnDt>
+<Dbtr>
+<Nm>SPANDANA SPHOORTY FINANCIAL LIMITED</Nm>
+<PstlAdr>
+<StrtNm>GALAXY WING B 16TH FLOOR PLOT NO.1</StrtNm>
+<PstCd>500081</PstCd>
+<TwnNm>HYDERABAD</TwnNm>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</Dbtr>
+<DbtrAcct>
+<Id>
+<Othr>
+<Id>082151994001</Id>
+</Othr>
+</Id>
+<Ccy>INR</Ccy>
+</DbtrAcct>
+<DbtrAgt>
+<FinInstnId>
+<BIC>HSBCINBB</BIC>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</FinInstnId>
+</DbtrAgt>
+<CdtTrfTxInf>
+<PmtId>
+<InstrId>940867</InstrId>
+<EndToEndId>940867</EndToEndId>
+</PmtId>
+<Amt>
+<InstdAmt Ccy="INR">2.00</InstdAmt>
+</Amt>
+<ChrgBr>DEBT</ChrgBr>
+<CdtrAgt>
+<FinInstnId>
+<ClrSysMmbId>
+<MmbId>YESB0000097</MmbId>
+</ClrSysMmbId>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</FinInstnId>
+</CdtrAgt>
+<Cdtr>
+<Nm>Vajrala Naresh Kumar</Nm>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</Cdtr>
+<CdtrAcct>
+<Id>
+<Othr>
+<Id>009791800015849</Id>
+</Othr>
+</Id>
+</CdtrAcct>
+<RmtInf>
+<Ustrd>Testing Narration</Ustrd>
+</RmtInf>
+</CdtTrfTxInf>
+</PmtInf>
+</CstmrCdtTrfInitn>
+</Document>
+-------------------------------------------------------
+07-09-2023 19:00:47
+Msg:Bank_Account_No_Validation Request:{"SERVICEPROVIDERID":"PC000031597","REQUESTID":"P941432","REQUESTTYPE":"R","REMITTORACCOUNTNO":"082151994001","REMITTORNAME":"HSBC","BENEFICIARYBANKIFSC":"YESB0000097","BENEFICIARYACCOUNTNO":"009791800015849","AMOUNT":"2","CHANNELID":"CDP","AUTHENTICATIONTOKEN":"1234","ADDITIONALINFO7":"NF","BeneficiaryName":""}
+-------------------------------------------------------
+07-09-2023 19:10:26
+Msg:Bank_Account_No_Validation Request:{"SERVICEPROVIDERID":"PC000031597","REQUESTID":"P941432","REQUESTTYPE":"R","REMITTORACCOUNTNO":"082151994001","REMITTORNAME":"HSBC","BENEFICIARYBANKIFSC":"YESB0000097","BENEFICIARYACCOUNTNO":"009791800015849","AMOUNT":"2","CHANNELID":"CDP","AUTHENTICATIONTOKEN":"1234","ADDITIONALINFO7":"NF"}
+-------------------------------------------------------
+07-09-2023 19:11:37
+Msg:Bank_Account_No_Validation Request:{"SERVICEPROVIDERID":"PC000031597","REQUESTID":"P941432_A","REQUESTTYPE":"R","REMITTORACCOUNTNO":"082151994001","REMITTORNAME":"HSBC","BENEFICIARYBANKIFSC":"YESB0000097","BENEFICIARYACCOUNTNO":"009791800015849","AMOUNT":"2","CHANNELID":"CDP","AUTHENTICATIONTOKEN":"1234","ADDITIONALINFO7":"NF"}
+-------------------------------------------------------
+07-09-2023 19:12:09
+Msg:Bank_Account_No_Validation Request:{"SERVICEPROVIDERID":"PC000031597","REQUESTID":"P941432_A","REQUESTTYPE":"R","REMITTORACCOUNTNO":"082151994001","REMITTORNAME":"HSBC","BENEFICIARYBANKIFSC":"YESB0000097","BENEFICIARYACCOUNTNO":"009791800015849","AMOUNT":"1","CHANNELID":"CDP","AUTHENTICATIONTOKEN":"1234","ADDITIONALINFO7":"NF"}
+-------------------------------------------------------
+07-09-2023 19:12:29
+Msg:Bank_Account_No_Validation Request:{"SERVICEPROVIDERID":"PC000031597","REQUESTID":"P941432_B","REQUESTTYPE":"R","REMITTORACCOUNTNO":"082151994001","REMITTORNAME":"HSBC","BENEFICIARYBANKIFSC":"YESB0000097","BENEFICIARYACCOUNTNO":"009791800015849","AMOUNT":"1","CHANNELID":"CDP","AUTHENTICATIONTOKEN":"1234","ADDITIONALINFO7":"NF"}
+-------------------------------------------------------
+07-09-2023 19:28:48
+Msg:EnquiryStatus Request:{"REQUESTID":"P941432_B","REQUESTTYPE":"E","REMITTORACCOUNTNO":"082151994001","AMOUNT":"1","CHANNELID":"CDP","AUTHENTICATIONTOKEN":"1234","MERCHANTID":"12345"}
+-------------------------------------------------------
+07-09-2023 19:50:08
+Msg:HSBC NEFT ReqString:<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CstmrCdtTrfInitn>
+<GrpHdr>
+<MsgId>P941432_B</MsgId>
+<CreDtTm>2023-09-07T19:50:08</CreDtTm>
+<NbOfTxs>1</NbOfTxs>
+<CtrlSum>1</CtrlSum>
+<InitgPty>
+<Id>
+<OrgId>
+<Othr>
+<Id>PC000031597</Id>
+</Othr>
+</OrgId>
+</Id>
+</InitgPty>
+</GrpHdr>
+<PmtInf>
+<PmtInfId>P941432_B</PmtInfId>
+<PmtMtd>TRF</PmtMtd>
+<PmtTpInf>
+<SvcLvl>
+<Cd>URNS</Cd>
+</SvcLvl>
+</PmtTpInf>
+<ReqdExctnDt>2023-09-07</ReqdExctnDt>
+<Dbtr>
+<Nm>SPANDANA SPHOORTY FINANCIAL LIMITED</Nm>
+<PstlAdr>
+<StrtNm>GALAXY WING B 16TH FLOOR PLOT NO.1</StrtNm>
+<PstCd>500081</PstCd>
+<TwnNm>HYDERABAD</TwnNm>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</Dbtr>
+<DbtrAcct>
+<Id>
+<Othr>
+<Id>082151994001</Id>
+</Othr>
+</Id>
+<Ccy>INR</Ccy>
+</DbtrAcct>
+<DbtrAgt>
+<FinInstnId>
+<BIC>HSBCINBB</BIC>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</FinInstnId>
+</DbtrAgt>
+<CdtTrfTxInf>
+<PmtId>
+<InstrId>P941432_B</InstrId>
+<EndToEndId>P941432_B</EndToEndId>
+</PmtId>
+<Amt>
+<InstdAmt Ccy="INR">1</InstdAmt>
+</Amt>
+<ChrgBr>DEBT</ChrgBr>
+<CdtrAgt>
+<FinInstnId>
+<ClrSysMmbId>
+<MmbId>YESB0000097</MmbId>
+</ClrSysMmbId>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</FinInstnId>
+</CdtrAgt>
+<Cdtr>
+<Nm>Vajrala Naresh</Nm>
+<PstlAdr>
+<Ctry>IN</Ctry>
+</PstlAdr>
+</Cdtr>
+<CdtrAcct>
+<Id>
+<Othr>
+<Id>009791800015849</Id>
+</Othr>
+</Id>
+</CdtrAcct>
+<RmtInf>
+<Ustrd>Testing Narration</Ustrd>
+</RmtInf>
+</CdtTrfTxInf>
+</PmtInf>
+</CstmrCdtTrfInitn>
+</Document>
+-------------------------------------------------------

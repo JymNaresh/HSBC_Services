@@ -1,0 +1,3 @@
+21-03-2023 13:39:08
+Bank_Account_No_Validation Response:{"referenceId":"PP941167","profileId":"PC000031597","statusCode":"PDNG","statusDesc":"Processing is pending","responseBase64":""}
+-------------------------------------------------------
